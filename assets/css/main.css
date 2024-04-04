@@ -2995,15 +2995,16 @@ input, select, textarea {
 
 		.spotlight .image {
 			display: inline-block;
+			border-radius: 8px;
+			border: 0;
 			margin-left: 4em;
 			padding: 0.65em;
-			border-radius: 100%;
 			border: solid 1px;
 		}
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
+				border-radius: 8px;
 				width: 16em;
 			}
 
